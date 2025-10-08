@@ -5,8 +5,8 @@ import { MyBottomNav } from './MyBottomNav'
 export const MyLayout = () => {
   return (
     <>
-      <Outlet/>
-      <MyBottomNav/> 
+      <Outlet />
+      <MyBottomNav />
     </>
   )
 }
